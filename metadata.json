@@ -1,0 +1,5 @@
+{
+  "name": "YouLearn: AI Personalized Learning",
+  "description": "An adaptive learning platform that generates interactive educational content and quizzes tailored to your individual learning style and progress level. Enter a topic and let AI create a personalized lesson just for you.",
+  "requestFramePermissions": []
+}
